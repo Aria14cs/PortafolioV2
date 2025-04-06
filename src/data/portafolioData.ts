@@ -18,14 +18,14 @@ export const portafolioData = {
   proyectos: [
     {
       titulo: "Proyecto 1",
-      descripcion: "Aplicación web con autenticación de usuarios y Firebase.",
+      descripcion: "Página web que le permita a un usuario validar el número de una tarjeta de crédito.",
       tecnologias: ["React.js", "Firebase", "Tailwind CSS"],
       imagen: "./src/assets/PROYECTO N01.png",
       url: "https://aria14cs.github.io/DEV003-card-validation/",
     },
     {
       titulo: "Proyecto 2",
-      descripcion: "Aplicación web con autenticación de usuarios y Firebase.",
+      descripcion: "Página web para visualizar un conjunto (set) de datos que se adecúe a lo que descubra  el usuario necesita.",
       tecnologias: ["React.js", "Firebase", "Tailwind CSS"],
       imagen: "/assets/proyecto1.png",
       url: "https://ejemplo.com/proyecto1",
