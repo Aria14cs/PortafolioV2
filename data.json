@@ -53,7 +53,7 @@
     "proyectos": [
         {
             "titulo": "Proyecto 1",
-            "descripcion": "Aplicación aplicación web que le permita a un usuario validar el número de una tarjeta de crédito.",
+            "descripcion": "Página web que le permita a un usuario validar el número de una tarjeta de crédito.",
             "tecnologias": [
                 "React.js",
                 "Firebase",
