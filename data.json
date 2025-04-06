@@ -1,0 +1,88 @@
+{
+    "nombre": "Yandira Ariana",
+    "titulo": "Front-End Developer",
+    "perfil": "Desarrolladora Frontend con experiencia en la creación de aplicaciones web dinámicas y responsivas. Especializada en HTML, CSS, JavaScript y React.js, con conocimientos en Firebase, Firestore y metodologías ágiles. Mi formación en Administración y Negocios Internacionales me permite aplicar habilidades de gestión en proyectos tecnológicos. Apasionada por el aprendizaje continuo y la mejora de habilidades técnicas.",
+    "perfil_imagen": "./src/assets/Yandira.jpg",
+    "contacto": [
+        {
+            "correo": "y.condo.dv@gmail.com",
+            "celular": "935380177"
+        },
+        {
+            "descripcion": "GitHub",
+            "url": "https://github.com/usuario"
+        },
+        {
+            "descripcion": "LinkedIn",
+            "url": "https://www.linkedin.com/in/yandiracondo/"
+        }
+    ],
+    "educacion": [
+        {
+            "institucion": "Alura Latam",
+            "programa": "Desarrollo Front-End"
+        },
+        {
+            "institucion": "Laboratoria",
+            "programa": "Bootcamp de Desarrollo Web"
+        },
+        {
+            "institucion": "Instituto SISE",
+            "programa": "Negocios Internacionales"
+        }
+    ],
+    "habilidades": [
+        {
+            "Frontend": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Typescript",
+                "React",
+                "Vue",
+                "Figma"
+            ]
+        },
+        {
+            "Backend": [
+                "Python",
+                "Node.js"
+            ]
+        }
+    ],
+    "proyectos": [
+        {
+            "titulo": "Proyecto 1",
+            "descripcion": "Aplicación web interactiva con autenticación de usuarios y almacenamiento en Firebase.",
+            "tecnologias": [
+                "React.js",
+                "Firebase",
+                "Tailwind CSS"
+            ],
+            "imagen": "https://ejemplo.com/proyecto1.png",
+            "url": "https://ejemplo.com/proyecto1"
+        },
+        {
+            "titulo": "Proyecto 2",
+            "descripcion": "Plataforma de e-commerce con carrito de compras y pasarela de pagos.",
+            "tecnologias": [
+                "Vue.js",
+                "Node.js",
+                "MongoDB"
+            ],
+            "imagen": "https://ejemplo.com/proyecto2.png",
+            "url": "https://ejemplo.com/proyecto2"
+        },
+        {
+            "titulo": "Consumo de Api",
+            "descripcion": "En este proyecto se realizó el consumo de la API de Rick and Morty.",
+            "tecnologias": [
+                "HTML",
+                "javascript",
+                "CSS"
+            ],
+            "imagen": "./src/assets/Rick _Morty.png.png",
+            "url": "https://aria14cs.github.io/RickandMortyAPI/"
+        }
+    ]
+}
