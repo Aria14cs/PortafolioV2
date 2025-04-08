@@ -1,5 +1,4 @@
 import { Button } from "./boton";
-import WhatsAppIcon from "../assets/WhatsAppIcon.svg";
 
 interface ContactoProps {
   contacto: { tipo: string; valor?: string; url?: string }[];
